@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/new_zip_item"
+            android:title="@string/new_zip"
+            android:icon="@drawable/ic_add_white_24dp"
+            app:showAsAction="always"/>
+
+        <item
+            android:id="@+id/search_item"
+            android:title="@string/search"
+            android:icon="@drawable/ic_search_white_24dp"
+            app:showAsAction="always"/>
+
+        <item
+            android:id="@+id/new_folder_item"
+            android:title="@string/new_folder"
+            app:showAsAction="never"/>
+
+        <item
+            android:id="@+id/sorting_item"
+            android:title="@string/sorting"
+            app:showAsAction="never">
+                <menu xmlns:android="http://schemas.android.com/apk/res/android"
+                    xmlns:app="http://schemas.android.com/apk/res-auto">
+                    <group android:id="@+id/sorting_group" android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/time_item"
+                        android:title="@string/time"
+                        app:showAsAction="never"
+                        android:checked="false"/>
+
+                    <item
+                        android:id="@+id/size_item"
+                        android:title="@string/size"
+                        app:showAsAction="never"
+                        android:checked="false"/>
+
+                    <item
+                        android:id="@+id/category_item"
+                        android:title="@string/category"
+                        app:showAsAction="never"
+                        android:checked="true"/>
+
+                    <item
+                        android:id="@+id/name_item"
+                        android:title="@string/name"
+                        app:showAsAction="never"
+                        android:checked="true"/>
+
+                    </group>
+
+                </menu>
+
+        </item>
+
+        <item
+            android:id="@+id/setting_item"
+            android:title="@string/setting"
+            app:showAsAction="never" />
+
+</menu>

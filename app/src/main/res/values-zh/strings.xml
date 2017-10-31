@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qip</string>
+    <string name="new_zip">新建压缩文件</string>
+    <string name="search">搜索</string>
+    <string name="new_folder">新建文件夹</string>
+    <string name="sorting">排序</string>
+    <string name="setting">设置</string>
+    <string name="time">按时间</string>
+    <string name="size">按大小</string>
+    <string name="category">按类型</string>
+    <string name="name">按名称</string>
+    <string name="done">完成</string>
+    <string name="select_all">全选</string>
+    <string name="delete">删除</string>
+    <string name="compress">压缩</string>
+    <string name="extract">解压</string>
+    <string name="copy">复制</string>
+    <string name="cut">剪切</string>
+    <string name="paste">粘贴</string>
+    <string name="rename">重命名</string>
+    <string name="details">详细</string>
+    <string name="language">语言</string>
+    <string name="about">关于</string>
+</resources>
