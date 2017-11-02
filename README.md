@@ -9,4 +9,6 @@ app now,well whatever XD
 
 2017/10/31 First commit,part of app UI and some basic logic are finished.
 
+2017/11/02 Finish language switching funtion
+
 All rights reserved
