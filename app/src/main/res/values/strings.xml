@@ -8,7 +8,6 @@
     <string name="setting">Setting</string>
     <!--String for secondary menu of item sorting in MainActivity Toolbar-->
     <string name="time">Time</string>
-    <string name="size">Size</string>
     <string name="category">Category</string>
     <string name="name">Name</string>
     <!--String for MainActivity Edit Toolbar-->
@@ -25,5 +24,9 @@
     <!--String for SettingActivity-->
     <string name="language">Language</string>
     <string name="about">About</string>
+    <string name="chinese" translatable="false">简体中文</string>
+    <string name="english" translatable="false">English</string>
+    <string name="default_lang">Default</string>
+    <string name="size">Size</string>
 
 </resources>

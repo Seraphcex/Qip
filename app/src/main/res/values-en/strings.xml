@@ -1,2 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Qip</string>
+    <string name="new_zip">New zip</string>
+    <string name="search">Search</string>
+    <string name="new_folder">New folder</string>
+    <string name="sorting">Sorting</string>
+    <string name="setting">Setting</string>
+    <string name="time">Time</string>
+    <string name="size">Size</string>
+    <string name="category">Category</string>
+    <string name="name">Name</string>
+    <string name="done">Done</string>
+    <string name="select_all">Select All</string>
+    <string name="delete">Delete</string>
+    <string name="compress">Compress</string>
+    <string name="extract">Extract</string>
+    <string name="copy">Copy</string>
+    <string name="cut">Cut</string>
+    <string name="paste">Paste</string>
+    <string name="rename">Rename</string>
+    <string name="details">Details</string>
+    <string name="language">Language</string>
+    <string name="about">About</string>
+    <string name="default_lang">Default</string>
+</resources>

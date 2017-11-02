@@ -18,9 +18,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SettingActivity" android:launchMode="singleTask" />
-        <activity android:name=".LanguageActivity" android:launchMode="singleTask" />
-        <activity android:name=".AboutActivity" android:launchMode="singleTask" />
+        <activity
+            android:name=".SettingActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".LanguageActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".AboutActivity"
+            android:launchMode="singleTask" />
+        <activity android:name=".BaseActivity"></activity>
     </application>
 
 </manifest>
