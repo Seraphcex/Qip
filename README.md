@@ -11,4 +11,6 @@ app now,well whatever XD
 
 2017/11/02 Finish language switching funtion
 
+2017/11/08 Finish AboutActivity
+
 All rights reserved
