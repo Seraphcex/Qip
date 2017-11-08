@@ -41,7 +41,7 @@ public class BaseActivity extends AppCompatActivity {
                 break;
         }
         resources.updateConfiguration(configuration,displayMetrics);
-        //save the language you have set
+        //save the language you have chosen
         SharedPreferences.Editor editor = preferences.edit();
         editor.putString("language",language);
         editor.commit();

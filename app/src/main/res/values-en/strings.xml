@@ -23,4 +23,8 @@
     <string name="language">Language</string>
     <string name="about">About</string>
     <string name="default_lang">Default</string>
+    <string name="version">Version: 1.0.0 Beta</string>
+    <string name="rights">All Rights Reserved</string>
+    <string name="thanks">Special thanks to XunselF for all his help during my work,you can also check out his GitHub:github.com/XunselF</string>
+    <string name="description">A quick and simple Zip tool</string>
 </resources>

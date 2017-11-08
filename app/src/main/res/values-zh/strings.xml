@@ -23,4 +23,8 @@
     <string name="language">语言</string>
     <string name="about">关于</string>
     <string name="default_lang">跟随系统</string>
+    <string name="version">版本号：1.0.0 Beta</string>
+    <string name="thanks">特别感谢XunselF在本次开发中给予的帮助，查看他的GitHub:github.com/XunselF</string>
+    <string name="rights">版权所有</string>
+    <string name="description">一款简单易用的压缩工具</string>
 </resources>
